@@ -28,5 +28,11 @@
     "mes": "Maior Fã Do Hélioz Dev",
     "link": "https://api.whatsapp.com/send?phone=258849068648&text/",
     "vip": "0"
+  },
+  {
+    "nome": "Antetokoumpo",
+    "mes": "Maior Fã Do Hélioz Dev",
+    "link": "https://api.whatsapp.com/send?phone=258857152799&text",
+    "vip": "0"
   }
 ]
