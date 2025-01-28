@@ -22,5 +22,11 @@
     "mes": "Comparou VIP Premium",
     "link": "https://www.facebook.com/profile.php?id=61550906888629",
     "vip": "1"
+  },
+  {
+    "nome": "Joamane",
+    "mes": "Maior Fã Do Hélioz Dev",
+    "link": "https://api.whatsapp.com/send?phone=258849068648&text/",
+    "vip": "0"
   }
 ]
