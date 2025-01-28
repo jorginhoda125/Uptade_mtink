@@ -1,10 +1,10 @@
 {
   "fnmods_update": [
     {
-      "version": "4",
+      "version": "4.1",
       "title": "Nova Atualização Disponível",
-      "description": "Confirmado BJ82E2JH5KK. Registamos uma operacao de compra no valor de 160.00MT e a taxa foi de 0.00MT na entidade Port Achia Mozambique Lda com referencia TWHzVbySen7qBtlrTHgY aos 8/10/24 as 9:01 AM. O teu novo saldo M-Pesa e de 30.28MT. Em caso de duvida, liga 100. M-Pesa e facil!",
-      "download": "https://youtu.be/rY2otd2NacA"
+      "description": "• Corrigido Erro De Opacidade Na Tela De Definir Imagen De Menu.\\n\\n• Corrigido Layout Da Tela Premium.\\n\\n• E Pequeno Erros De Segurança Corrigida.\\n\\n[Data: 29/01/2025 01:50].",
+      "download": "https://mobidrive.com/sharelink/u/5Ap1BipS2kMYgVCYev3IPT54xpFHIu2WS3DTR39yBmJn"
     }
   ]
 }
