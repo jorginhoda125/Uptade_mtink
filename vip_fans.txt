@@ -1,13 +1,13 @@
 [
   {
     "nome": "Hélioz Dev",
-    "mes": "ADM",
-    "link": "https://m.facebook.com/",
+    "mes": "Criador e ADM Do Projeto",
+    "link": "https://api.whatsapp.com/send?phone=258842834889&text/",
     "vip": "2"
   },
   {
     "nome": "Alberto",
-    "mes": "Comparou VIP Premium",
+    "mes": "Comparou VIP Lite",
     "link": "",
     "vip": "1"
   },
@@ -16,5 +16,11 @@
     "mes": "Maior Fã do Hélioz Dev",
     "link": "https://api.whatsapp.com/send?phone=258868643015&text=Oi+estou+aqui+por+helioz+como+me-tornar+fa+dele",
     "vip": "0"
+  },
+  {
+    "nome": "Délcio Da PC",
+    "mes": "Comparou VIP Premium",
+    "link": "https://www.facebook.com/profile.php?id=61550906888629",
+    "vip": "1"
   }
 ]
