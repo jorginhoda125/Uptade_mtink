@@ -1,7 +1,7 @@
 {
   "fnmods_update": [
     {
-      "version": "4.1",
+      "version": "0",
       "title": "Nova Atualização Disponível",
       "description": "• Corrigido Erro De Opacidade Na Tela De Definir Imagen De Menu.\n\n• Corrigido Layout Da Tela Premium.\n\n• E Pequeno Erros De Segurança Corrigida.\n\nData: 29/01/2025 | 01:50",
       "download": "https://sfile.mobi/4xZE2Wr7nGN"
