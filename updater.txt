@@ -1,10 +1,10 @@
 {
   "fnmods_update": [
     {
-      "version": "0",
+      "version": "4.2",
       "title": "Nova Atualização Disponível",
-      "description": "• Corrigido Erro De Opacidade Na Tela De Definir Imagen De Menu.\n\n• Corrigido Layout Da Tela Premium.\n\n• E Pequeno Erros De Segurança Corrigida.\n\nData: 29/01/2025 | 01:50",
-      "download": "https://sfile.mobi/4xZE2Wr7nGN"
+      "description": "*Super Movitel MOD v4.2*\n\n*Correção*\n• Erro De *Piscar*\n• Erro De *Instalação*\n• Erro No *Android 11+*\n• Erros De *Carregar Dados*\n• Melhorias *Nos Dados*\n• Erro De *No Data*\n• Erro No *Abano*\n• Erro Do *Pacote*/*Package*\n• Entre Outras *Correções*\n\nPub: *05/02/2025 10:50*",
+      "download": "https://zt.ms/zT0"
     }
   ]
 }
