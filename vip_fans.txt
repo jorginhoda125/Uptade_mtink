@@ -36,7 +36,7 @@
     "vip": "0"
   },
   {
-    "nome": "Any",
+    "nome": "Andy",
     "mes": "Usuário VIP LIte",
     "link": "https://wa.link/c450bm",
     "vip": "1"
