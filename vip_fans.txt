@@ -34,5 +34,11 @@
     "mes": "Maior Fã Do Hélioz Dev",
     "link": "https://api.whatsapp.com/send?phone=258857152799&text",
     "vip": "0"
+  },
+  {
+    "nome": "Any",
+    "mes": "Usuário VIP LIte",
+    "link": "https://wa.link/c450bm",
+    "vip": "1"
   }
 ]
