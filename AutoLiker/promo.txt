@@ -1,5 +1,5 @@
 {
   "mess": "Este é o Mês De Grandes Promoções.\n\nVocê Não Pode Perder Isso Leva Leva Cresça Já a Tua Página Com Muitas Curtidas ❤️ #Aproveite",
   "link": "",
-  "ver": "1.5 bet"
+  "ver": "2.5 beta"
 }
