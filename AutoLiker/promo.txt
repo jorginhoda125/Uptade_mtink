@@ -1,5 +1,5 @@
 {
-  "mess":"Ola a Usurious Estamos Com Problemas No Pagamento Via e-Mola\nPagem Via M-Pesa.\n\nFB Dump Likerv1.5.3 beta(15)\n\nVocê Não Pode Perder Isso Leva Leva Cresça Já a Tua Página Com Muitas Curtidas ❤️ #Aproveite",
+  "mess":"Pagamento e-Mola voltou agora esta funcionando 100%🇲🇿.\n\nFB Dump Likerv1.5.3 beta(15)\n\nVocê Não Pode Perder Isso Leva Leva Cresça Já a Tua Página Com Muitas Curtidas ❤️ #Aproveite",
   "link": "https://www.mediafire.com/file/x9vsdhhtbdomlnm/FB+Dump+Liker_v1.5.3+beta(15).apk/file",
   "ver": "1.5.3 beta"
 }
