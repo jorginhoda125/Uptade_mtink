@@ -1,5 +1,5 @@
 {
-  "mess": "Olá Usuários Estamos Em Manutenção Voltaremos Em Breve Aguarde Por Nós",
+  "mess": "Finalmente Estamos De Volta ❤️ Todos os Erros De Pagamentos Foram Resolvidos Agora o App Ta 100% Seguro\n\nNao Se Esqueça Link é De Facebook 👍",
   "link": "https://www.mediafire.com/file/x9vsdhhtbdomlnm/FB+Dump+Liker_v1.5.3+beta(15).apk/file",
   "ver": "1.5.3 beta"
 }
