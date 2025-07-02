@@ -1,5 +1,5 @@
 {
-  "mess": "📢 Olá a todos os usuários!\n\nTemos uma excelente notícia para vocês: estamos de volta com força total! 💪\n\n✅ Todos os problemas foram resolvidos com sucesso.  \n✅ O aplicativo está reatualizado e otimizado. \n✅ Os pagamentos agora são instantâneos— assim que fizer a compra, em menos de 5 segundos o pagamento já é processado.  \n✅ Nossos afiliantes também recebem na hora, sem demoras.\n\nPedimos nossas sinceras desculpas pelos transtornos que aconteceram anteriormente. Sabemos o quanto isso foi inconveniente, e agradecemos a paciência e confiança de todos.\n\n📅 Voltamos oficialmente no dia 10 de Julho, às 7 horas da manhã.\nMarque na sua agenda e prepare-se, porque agora tudo vai fluir como nunca antes!\n\nObrigado a todos por continuarem conosco. 🙏  \nA nova fase começa agora!",
+  "mess": "🚀 Aguarde só mais um pouco!\nEstamos trabalhando para trazer o aplicativo para a Play Store.\nNeste momento, nossa conta de desenvolvedor está em processo de aprovação pela Google.\n\nA data estimada para liberação é até o dia 10. Assim que tudo estiver confirmado e pronto para o público, vamos avisar imediatamente!\n\nAgradecemos pela paciência e apoio.\n\nEquipe Tilks Developer Inc 🇲🇿",
   "link": "https://www.mediafire.com/file/x9vsdhhtbdomlnm/FB+Dump+Liker_v1.5.3+beta(15).apk/file",
   "ver": "1.5.3 beta"
 }
