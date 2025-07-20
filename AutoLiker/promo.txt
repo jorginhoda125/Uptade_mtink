@@ -1,5 +1,5 @@
 {
-  "mess": "🚀 Aguarde só mais um pouco!\nEstamos trabalhando para trazer o aplicativo para a Play Store.\nNeste momento, nossa conta de desenvolvedor está em processo de aprovação pela Google.\n\nA data estimada para liberação é até o dia 10. Assim que tudo estiver confirmado e pronto para o público, vamos avisar imediatamente!\n\nAgradecemos pela paciência e apoio.\n\nEquipe Tilks Developer Inc 🇲🇿",
+  "mess": "Finalmente Conseguimos Resolver o Problema Da Nossa API MOVITEL Estaremos De Volta Dentro de 7 Dias\n\nAguarde Nos Dentro Desses Dias até Dia 28 Julho",
   "link": "https://www.mediafire.com/file/x9vsdhhtbdomlnm/FB+Dump+Liker_v1.5.3+beta(15).apk/file",
   "ver": "1.5.3 beta"
 }
