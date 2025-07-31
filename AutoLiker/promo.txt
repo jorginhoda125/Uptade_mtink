@@ -1,5 +1,5 @@
 {
-  "mess": "Finalmente Conseguimos Resolver o Problema Da Nossa API MOVITEL Estaremos De Volta Dentro de 7 Dias\n\nAguarde Nos Dentro Desses Dias até Dia 28 Julho",
+  "mess": "Estamos Em Grande Manutenção Com o Nosso App\n\nAguarde Nos Dentro Desses Dias Voltaremos Ativos",
   "link": "https://www.mediafire.com/file/x9vsdhhtbdomlnm/FB+Dump+Liker_v1.5.3+beta(15).apk/file",
   "ver": "1.5.3 beta"
 }
