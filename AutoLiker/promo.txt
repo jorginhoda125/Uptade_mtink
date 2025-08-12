@@ -1,5 +1,5 @@
 {
-  "mess": "Começamos Com Promoções Anteriores Sem Parar, Aproveita Porque Pode Expirar Dentro De Alguns Dias.\n\nCompartilha APP e Ganhe Comissões💰",
-  "link": "https://www.mediafire.com/file/x9vsdhhtbdomlnm/FB+Dump+Liker_v1.5.3+beta(15).apk/file",
-  "ver": "2.0"
+  "mess": "Erro: Nos Pagamentos e Material Ícone Corrigidos 💯\nComeçamos Com Promoções Anteriores Sem Parar, Aproveita Porque Pode Expirar Dentro De Alguns Dias.\n\nCompartilha APP e Ganhe Comissões💰",
+  "link": "https://www.mediafire.com/file/rwp6pz6gameqx4g/Dump+Liker+V2+v2.1(15).apk/file",
+  "ver": "2.1"
 }
