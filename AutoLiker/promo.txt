@@ -1,5 +1,5 @@
 {
-  "mess": "Ola, a Todos é Hoje Que Voltaremos Ativos.\n\nEstamos a fazer algumas verificação❤️",
+  "mess": "Começamos Com Promoções Anteriores Sem Parar, Aproveita Porque Pode Expirar Dentro De Alguns Dias.\n\nCompartilha APP e Ganhe Comissões💰",
   "link": "https://www.mediafire.com/file/x9vsdhhtbdomlnm/FB+Dump+Liker_v1.5.3+beta(15).apk/file",
-  "ver": "1.5.3 beta"
+  "ver": "2.0"
 }
