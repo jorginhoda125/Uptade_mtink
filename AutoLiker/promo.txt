@@ -1,5 +1,5 @@
 {
-  "mess": "Ola, a Todos Estamos De Volta Aguarde Por Nós Dia 12 Agosto..\n\n#tilkDev \n\nUltimamente Estivemos Em Grande Manutenção Para Manter APP Seguro.\n\nEstamos a fazer algumas verificação❤️",
+  "mess": "Ola, a Todos é Hoje Que Voltaremos Ativos.\n\nEstamos a fazer algumas verificação❤️",
   "link": "https://www.mediafire.com/file/x9vsdhhtbdomlnm/FB+Dump+Liker_v1.5.3+beta(15).apk/file",
   "ver": "1.5.3 beta"
 }
