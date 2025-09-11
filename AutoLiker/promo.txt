@@ -1,5 +1,5 @@
 {
-  "mess": "Agora Tudo é Aprovado Dentro 30min máximo 6h\n\nPedimos Desculpa Pela Versão Anterior Que Exigiam Várias Falhas.\n\nCompartilha APP e Ganhe Comissões💰",
+  "mess": "A E-mola Está Indisponível Atualmente.\n\nOs Pagamentos Só Pode Ser Feitas Via M-Pesa.",
   "link": "https://www.mediafire.com/file/steoutd249fs6em/FB+Dump+Liker+V2+v2.4(19).apk/file",
   "ver": "2.4"
 }
