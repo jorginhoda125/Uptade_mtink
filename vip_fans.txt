@@ -1,44 +1,290 @@
 [
   {
     "nome": "Hélioz Dev",
-    "mes": "Criador e ADM Do Projeto",
+    "mes": "Criador e ADM do Projeto",
     "link": "https://api.whatsapp.com/send?phone=258842834889&text/",
     "vip": "2"
   },
   {
-    "nome": "Alberto",
-    "mes": "Comparou VIP Lite",
+    "nome": "Developer Inc 🇲🇿",
+    "mes": "Administrador Oficial do Projeto",
+    "link": "https://api.whatsapp.com/send?phone=258865889149&text/",
+    "vip": "2"
+  },
+  {
+    "nome": "Rui Matola",
+    "mes": "Maior Fã do Hélioz Dev",
+    "link": "",
+    "vip": "0"
+  },
+  {
+    "nome": "Joamane Luís",
+    "mes": "Maior Fã do Hélioz Dev",
+    "link": "",
+    "vip": "0"
+  },
+  {
+    "nome": "Mauro Antetokounmpo",
+    "mes": "Maior Fã do Hélioz Dev",
+    "link": "",
+    "vip": "0"
+  },
+  {
+    "nome": "Alberto António",
+    "mes": "Usuário VIP Lite",
     "link": "",
     "vip": "1"
   },
   {
-    "nome": "Rui====1",
-    "mes": "Maior Fã do Hélioz Dev",
-    "link": "https://api.whatsapp.com/send?phone=258868643015&text=Oi+estou+aqui+por+helioz+como+me-tornar+fa+dele",
-    "vip": "0"
-  },
-  {
     "nome": "Délcio Da PC",
-    "mes": "Comparou VIP Premium",
-    "link": "https://www.facebook.com/profile.php?id=61550906888629",
+    "mes": "Comprou VIP",
+    "link": "",
     "vip": "1"
   },
   {
-    "nome": "Joamane",
-    "mes": "Maior Fã Do Hélioz Dev",
-    "link": "https://api.whatsapp.com/send?phone=258849068648&text/",
-    "vip": "0"
+    "nome": "Amélia Nhantumbo",
+    "mes": "Usuária VIP Lite",
+    "link": "",
+    "vip": "1"
   },
   {
-    "nome": "Antetokoumpo",
-    "mes": "Maior Fã Do Hélioz Dev",
-    "link": "https://api.whatsapp.com/send?phone=258857152799&text",
-    "vip": "0"
+    "nome": "Carlos Mendes",
+    "mes": "Usuário VIP",
+    "link": "",
+    "vip": "1"
   },
   {
-    "nome": "Andy",
-    "mes": "Usuário VIP LIte",
+    "nome": "Inês Domingos",
+    "mes": "Usuária VIP Lite",
+    "link": "",
+    "vip": "1"
+  },
+  {
+    "nome": "Samuel Tivane",
+    "mes": "Comprou VIP",
+    "link": "",
+    "vip": "1"
+  },
+  {
+    "nome": "Tatiana Lopes",
+    "mes": "Usuária VIP Lite",
+    "link": "",
+    "vip": "1"
+  },
+  {
+    "nome": "Manuel Chissano",
+    "mes": "Usuário VIP",
+    "link": "",
+    "vip": "1"
+  },
+  {
+    "nome": "Joãozinho Cuamba",
+    "mes": "Usuário VIP Lite",
+    "link": "",
+    "vip": "1"
+  },
+  {
+    "nome": "Celina Matavele",
+    "mes": "Comprou VIP",
+    "link": "",
+    "vip": "1"
+  },
+  {
+    "nome": "Pedro Simango",
+    "mes": "Usuário VIP Lite",
+    "link": "",
+    "vip": "1"
+  },
+  {
+    "nome": "Ana Paula",
+    "mes": "Usuária VIP",
+    "link": "",
+    "vip": "1"
+  },
+  {
+    "nome": "Ricardo Nhacale",
+    "mes": "Usuário VIP Lite",
+    "link": "",
+    "vip": "1"
+  },
+  {
+    "nome": "Andy Júnior",
+    "mes": "Usuário VIP Lite",
     "link": "https://wa.link/c450bm",
+    "vip": "1"
+  },
+  {
+    "nome": "Marta Zandamela",
+    "mes": "Comprou VIP",
+    "link": "",
+    "vip": "1"
+  },
+  {
+    "nome": "João Zeca",
+    "mes": "Usuário VIP Lite",
+    "link": "",
+    "vip": "1"
+  },
+  {
+    "nome": "Daniel Macuácua",
+    "mes": "Usuário VIP",
+    "link": "",
+    "vip": "1"
+  },
+  {
+    "nome": "Helena Tomás",
+    "mes": "Usuária VIP Lite",
+    "link": "",
+    "vip": "1"
+  },
+  {
+    "nome": "Fábio Nhantumbo",
+    "mes": "Usuário VIP",
+    "link": "",
+    "vip": "1"
+  },
+  {
+    "nome": "Luciana Langa",
+    "mes": "Usuária VIP Lite",
+    "link": "",
+    "vip": "1"
+  },
+  {
+    "nome": "Arlindo José",
+    "mes": "Comprou VIP",
+    "link": "",
+    "vip": "1"
+  },
+  {
+    "nome": "Graça Macamo",
+    "mes": "Usuária VIP Lite",
+    "link": "",
+    "vip": "1"
+  },
+  {
+    "nome": "Osvaldo Simbine",
+    "mes": "Usuário VIP",
+    "link": "",
+    "vip": "1"
+  },
+  {
+    "nome": "Vânia Cossa",
+    "mes": "Usuária VIP Lite",
+    "link": "",
+    "vip": "1"
+  },
+  {
+    "nome": "Eduardo Nhavoto",
+    "mes": "Usuário VIP",
+    "link": "",
+    "vip": "1"
+  },
+  {
+    "nome": "Patrícia Tomé",
+    "mes": "Usuária VIP Lite",
+    "link": "",
+    "vip": "1"
+  },
+  {
+    "nome": "Gilberto Júnior",
+    "mes": "Usuário VIP",
+    "link": "",
+    "vip": "1"
+  },
+  {
+    "nome": "Rosa Mateus",
+    "mes": "Usuária VIP Lite",
+    "link": "",
+    "vip": "1"
+  },
+  {
+    "nome": "Fernando Zavale",
+    "mes": "Usuário VIP",
+    "link": "",
+    "vip": "1"
+  },
+  {
+    "nome": "Carla Massango",
+    "mes": "Usuária VIP Lite",
+    "link": "",
+    "vip": "1"
+  },
+  {
+    "nome": "Miguel Uamusse",
+    "mes": "Usuário VIP",
+    "link": "",
+    "vip": "1"
+  },
+  {
+    "nome": "Sara João",
+    "mes": "Usuária VIP Lite",
+    "link": "",
+    "vip": "1"
+  },
+  {
+    "nome": "Nelson Chibuto",
+    "mes": "Usuário VIP",
+    "link": "",
+    "vip": "1"
+  },
+  {
+    "nome": "Beatriz Langa",
+    "mes": "Usuária VIP Lite",
+    "link": "",
+    "vip": "1"
+  },
+  {
+    "nome": "Cristiano Macuvele",
+    "mes": "Usuário VIP",
+    "link": "",
+    "vip": "1"
+  },
+  {
+    "nome": "Juliana Fernandes",
+    "mes": "Usuária VIP Lite",
+    "link": "",
+    "vip": "1"
+  },
+  {
+    "nome": "Tomás Nhantumbo",
+    "mes": "Usuário VIP",
+    "link": "",
+    "vip": "1"
+  },
+  {
+    "nome": "Ângela Xavier",
+    "mes": "Usuária VIP Lite",
+    "link": "",
+    "vip": "1"
+  },
+  {
+    "nome": "Osman Júnior",
+    "mes": "Usuário VIP",
+    "link": "",
+    "vip": "1"
+  },
+  {
+    "nome": "Helder Cuamba",
+    "mes": "Usuário VIP Lite",
+    "link": "",
+    "vip": "1"
+  },
+  {
+    "nome": "Paulo Matavele",
+    "mes": "Usuário VIP",
+    "link": "",
+    "vip": "1"
+  },
+  {
+    "nome": "Mónica Nhantumbo",
+    "mes": "Usuária VIP Lite",
+    "link": "",
+    "vip": "1"
+  },
+  {
+    "nome": "Elias Mucavel",
+    "mes": "Usuário VIP",
+    "link": "",
     "vip": "1"
   }
 ]
