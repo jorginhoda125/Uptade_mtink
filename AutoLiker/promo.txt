@@ -1,5 +1,5 @@
 {
   "mess": "A E-mola Está Indisponível Atualmente.\n\nOs Pagamentos Só Pode Ser Feitas Via M-Pesa.",
-  "link": "https://www.mediafire.com/file/steoutd249fs6em/FB+Dump+Liker+V2+v2.4(19).apk/file",
-  "ver": "2.4"
+  "link": "https://www.mediafire.com/file/uc09z0gz9i3fcsn/FB+Dump+Liker+v2.5(21).apk/file",
+  "ver": "2.5"
 }
